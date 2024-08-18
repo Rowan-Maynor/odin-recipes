@@ -1,25 +1,58 @@
 * {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: grey;
 }
 
 h1, h2, h3, h4, h5, h6 {
     text-align: center;
     background-color: rgb(109, 142, 252);
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-top: .25em;
+    padding-bottom: .25em;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 img {
+    height: auto;
+    width: 400px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 20px;
-    padding-bottom: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: white;
+}
+
+#ramen-img {
+    padding-left: 21.5em;
+    padding-right: 21.5em;
+}
+
+#grilled-cheese-img {
+    padding-left: 21.5em;
+    padding-right: 21.45em;
+}
+
+#lasagna-img {
+    padding-left: 21.5em;
+    padding-right: 21.45em;
 }
 
 div.container {
     text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: white;
 }
 
 .list-center {
     display: inline-block;
     text-align: left;
+    background-color: white;
+}
+
+.bg-white {
+    background-color: white;
 }
