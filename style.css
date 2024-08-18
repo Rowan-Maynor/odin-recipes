@@ -15,31 +15,29 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0px;
 }
 
-img {
-    width: 1087px;
-    height: auto;
+div.img {
     display: block;
     margin-left: 400px;
     margin-right: 400px;
     padding-top: 10px;
     padding-bottom: 10px;
     background-color: white;
-    align-self: center;
+    text-align: center;
 }
 
 #ramen-img {
-    padding-left: 21.5em;
-    padding-right: 21.5em;
+    width: 400px;
+    height: auto;
 }
 
 #grilled-cheese-img {
-    padding-left: 21.5em;
-    padding-right: 21.45em;
+    width: 400px;
+    height: auto;
 }
 
 #lasagna-img {
-    padding-left: 21.5em;
-    padding-right: 21.45em;
+    width: 400px;
+    height: auto;
 }
 
 div.container {
